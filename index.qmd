@@ -1,6 +1,10 @@
 ---
-title: "alliemcd.github.io"
+title: "Allie McDonald"
 ---
+
+# Welcome
+
+This site contains tutorials and projects created for STAT 386.
 
 ## Tutorials
 
